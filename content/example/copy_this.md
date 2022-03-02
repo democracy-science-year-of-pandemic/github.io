@@ -6,7 +6,9 @@ tags = ["Krause", "Advisory Panel"]
 category = "Journal"
 +++
 
-To navigate the site, click on the title "Booster Timeline" to go to the home page that lists all items. Click on a specific item to learn more about it. 
+To navigate the site, click on the title "Booster Timeline" to go to the home page that lists all items. 
+
+Click on a specific item to learn more about it. 
 
 ### Creating a File Like This One 
 This item will show you how to format what you write. Look at this item from the Github site and compare with how it looks on the website. 
