@@ -2,11 +2,7 @@
 
 This site provides the content for a webpage that you can find at this URL: 
 
-https://democracy.paulromer.net 
-
-The site is password protected (albeit with a very weak password): "science" 
-
-To be specific, the password is the word in all lowercase letters, without the quotation marks. 
+https://democracy-science-year-of-pandemic/github.io
 
 # How the site is organized
 
