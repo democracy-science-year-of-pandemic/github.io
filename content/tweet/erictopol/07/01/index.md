@@ -2,6 +2,7 @@
 title = "Tweets by Eric Topol, July 01"
 type = "tweet"
 layout = "day_of_tweets"
+date = "2021-07-01"
 tags = ["Twitter"]
 category = "Twitter"
 +++

@@ -68,7 +68,33 @@
                 {{end}}
                 </ul>
             {{end}} 
-            
+
+
+        </div>
+
+        <div>
+
+            <!-- previous and next pagination -->
+            <div class="mt-4 ml-md-10 w-md-55 border-top text-default">
+                <div class="d-md-flex d-flex-space-between">
+                    <div class="w-md-40 pt-2">
+                        {{ if .PrevInSection }}
+                        <div class="mt-1 text-medium">
+                             <a href="{{.PrevInSection.Permalink}}">{{.PrevInSection.Title}}</a>
+                        </div>
+                        {{ end }}
+                    </div>
+
+                    <div class="w-md-40-max pt-2">
+                        {{ if .NextInSection }}
+                        <div class="mt-1 text-medium">
+                            <a  href="{{.NextInSection.Permalink}}"> {{.NextInSection.Title}}</a>
+                        </div>
+                        {{ end }}
+                    </div>
+                </div>
+            </div>
+
         </div>
     </div>
 </div>
