@@ -5,97 +5,27 @@
 <div class="container content m-auto">
 
     <div id="article" class="w-md-55 m-auto">
-        <div class="mt-1 article-menu">
-            <!-- <a class="button"
-                href="https://github.com/mainsail-org/how-to/blob/master/content/{{ .File.Path }}">edit</a>
-            <a class="button" target="_blank"
-                href="{{ .Site.Params.flag }}?labels=flag&title=[flag] {{ .Title }}&body={{.Site.Params.flagmessage}}{{ .Permalink }}">report
-                an issue</a>
 
-            {{ if .Params.code }}
-            <a class="button" target="_blank" href="{{ .Params.code }}">code</a>
-            {{ end }}
-            
-
-            <a class="button" target="_blank"
-                href="https://github.com/mainsail-org/how-to/commits/master/content/{{ .File.Path }}">history</a>
-
-            <a class="button" target="_blank" href="{{ .Site.Params.gitter }}">chat</a>
-        -->
-        </div>
 
         <div class="mt-1 article-title text-capitalize-letter">
             {{ .Title }}
         </div>
-        <div>
-            {{- partial "flags.html" . -}}
+
+        <!--  content -->
+        <div class="mt-2 article">  {{  .Content | safeHTML }}  </div>
+
+        {{ if .PrevInSection }}
+        <div class="mt-1 text-medium">
+            <a href="{{.PrevInSection.Permalink}}">{{.PrevInSection.Title}}</a>
         </div>
+        {{ end }}
 
-        <!-- <aside>
-            <div class="toc">
-                {{ .TableOfContents }}
-            </div>
-        </aside> -->
-
-        <div class="mt-2 article">
-            <!-- check for a tldr.md file and display the markdown -->
-            {{ $tldr_path :=  print .File.Dir "tldr.md" }}
-            {{ if (fileExists $tldr_path ) }}
-            <div class="tldr">
-                <div class="font-weight-bold"> > TLDR;</div>
-                {{ markdownify (readFile $tldr_path) }}
-            </div>
-            {{ end }}
-            <div>
-                {{  .Content | safeHTML }}
-            </div>
+        {{ if .NextInSection }}
+        <div class="mt-1 text-medium">
+            <a  href="{{.NextInSection.Permalink}}"> {{.NextInSection.Title}}</a>
         </div>
+        {{ end }}
 
-        <div class="mt-2">
-                {{ if .Params.series }}
-                {{ $name := index .Params.series 0 }}
-                <hr/>
-                <p><a href="" id="series"></a>This is a post in the 
-                <b>{{$name}}</b> series.<br/>
-                Other posts in this series:</p>
-            
-                {{ $name := $name | urlize }}
-                {{ $series := index .Site.Taxonomies.series $name }}
-                <ul class="series">
-                {{ range $series.Pages }}
-                    <li>{{.Date.Format "Jan 02, 2006"}} -
-                    <a href="{{.Permalink}}">{{.LinkTitle}}</a></li>
-                {{end}}
-                </ul>
-            {{end}} 
-
-
-        </div>
-
-        <div>
-
-            <!-- previous and next pagination -->
-            <div class="mt-4 ml-md-10 w-md-55 border-top text-default">
-                <div class="d-md-flex d-flex-space-between">
-                    <div class="w-md-40 pt-2">
-                        {{ if .PrevInSection }}
-                        <div class="mt-1 text-medium">
-                             <a href="{{.PrevInSection.Permalink}}">{{.PrevInSection.Title}}</a>
-                        </div>
-                        {{ end }}
-                    </div>
-
-                    <div class="w-md-40-max pt-2">
-                        {{ if .NextInSection }}
-                        <div class="mt-1 text-medium">
-                            <a  href="{{.NextInSection.Permalink}}"> {{.NextInSection.Title}}</a>
-                        </div>
-                        {{ end }}
-                    </div>
-                </div>
-            </div>
-
-        </div>
     </div>
 </div>
 

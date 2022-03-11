@@ -1,0 +1,16 @@
+{{ $reg_pages :=  .Site.RegularPages  }}
+{{ $recent := ($reg_pages | last 50).Reverse }}
+
+
+<div class="container m-auto">
+    <div class="w-md-55 m-auto">
+        <h2>Tweets</h2>
+            <div class="tweet-row-example tweet-container">
+            {{ range $recent }}
+                 <div class="tweet-column-example tweet-box">
+                   <a href="{{.Permalink}}">{{ .Title }}</a>
+                 </div>
+            {{ end }}
+            </div>
+    </div>
+</div>

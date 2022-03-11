@@ -308,3 +308,30 @@ tr:last-child > td {
     border-bottom: 1px solid #000;
 }
 
+.tweet-row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+
+.tweet-column {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex: 1;
+}
+
+.tweet-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.tweet-box {
+    width: 50%;
+}
+
+hr {
+    border: 1px dashed black;
+}

@@ -1,0 +1,18 @@
+{{ $section_content :=  where .Site.RegularPages "Section" "news"  }}
+{{ $section_content := ($section_content | last 3).Reverse }}
+
+<div class="container m-auto">
+    <div class="w-md-55 m-auto">
+        <h2>News</h2>
+            {{ range $section_content }}
+            <div class="mt-1">
+                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                <div>
+                    <div>{{ .Date.Format "Jan 02" }} </div>
+                    <div>{{ .Params.Summary }}</div>
+                </div>
+            </div>
+            {{ end }}
+        </ul>
+    </div>
+</div>
