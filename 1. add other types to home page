@@ -1,0 +1,25 @@
+1. add other types to home page 
+
+2. look at idea of setting month in sidebar 
+    do I need flex for this/
+    start w simple menu
+
+3. filter items by month 
+    select some tweets 
+    add a variable "feature"
+    or add a "weight" 
+
+////////// Tweets /////////
+I need to fix some details in python that creates tweet pages
+    ???
+
+In tweets, add a link for "reply to"
+
+50% as default 
+? adjust if there are more than 2? 
+    would have to be done in the Python
+
+
+
+
+

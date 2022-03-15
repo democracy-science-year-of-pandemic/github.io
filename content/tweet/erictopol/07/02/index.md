@@ -1,9 +1,6 @@
 +++
-title = "Tweets by Eric Topol July 02"
-Summary = ""
-layout = "day_of_tweets"
-date = "2021-07-02"
-tags = ["Twitter"]
+title = "Tweets by Eric Topol" 
+data = 2021-07-02T01:06:27+00:00
 category = "Twitter"
 +++
 
