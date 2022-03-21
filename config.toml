@@ -16,3 +16,7 @@ baseURL = "https://democracy-science-year-of-pandemic.github.io"
 
 [permalinks]
     post = '/:year/:month/:slug'
+
+[taxonomies]
+  2021 = "2021"
+  2022 = "2022"

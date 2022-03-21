@@ -3,20 +3,11 @@
     <div class="container m-auto">
         <div class="w-md-55 m-auto mt-2">
             <div class="title text-center">Booster Timeline</div>
-        
-    <aside>
-        <div class="toc">
-            {{ range $value := .Site.Pages.GroupByDate "January 2006" }}
-            {{ $url := (index $value.Pages 0).Date.Format "2006/01" | urlize }}
-            <nav id="TableOfContents">
-                <li><a href="/{{ $url }}">{{ .Key }} </a></li>
-            </nav>
-            {{ end }}
-        </div>
-    </aside>
-   {{- partial "news.html" . -}}
-   {{- partial "oped.html" . -}}
-   {{- partial "tweets.html" . -}}
+            {{- partial "aside.html" . -}}
+            {{- partial "news.html" . -}}
+            {{- partial "oped.html" . -}}
+            {{- partial "tweets.html" . -}}
         </div>
     </div>
+
 {{ end }}

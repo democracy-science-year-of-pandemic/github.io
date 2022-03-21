@@ -1,0 +1,13 @@
+<aside>
+    <div class="toc">
+        <nav id="TableOfContents">
+            <ul>
+                <li><a href="/">Home</a></li>
+                {{ range $value := .Site.Pages.GroupByDate "January 2006" }}
+                {{ $url := (index $value.Pages 0).Date.Format "2006/01" | urlize }}
+                        <li><a href="/{{ $url }}">{{ .Key }} </a></li>
+                {{ end }}
+            </ul>
+        </nav>
+    </div>
+</aside>

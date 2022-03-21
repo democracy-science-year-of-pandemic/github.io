@@ -1,6 +1,7 @@
 +++
 title = "F.D.A. Advisory Panel"
 date = 2021-09-17
+2021 = ["09"]
 summary = "insufficient evidence to recommend third shots for all adult recipients of the vaccine, as Pfizer had requested"
 tags = ["Advisory Panel", "FDA"]
 category = "News"

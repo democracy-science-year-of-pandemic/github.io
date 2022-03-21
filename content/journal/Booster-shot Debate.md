@@ -3,7 +3,7 @@
 title = "The Booster-Shot Debate Was a Debacle"
 
 date = 2021-10-22
-
+2021 = ["10"]
 summary = "before the booster shot was released to the public, there were many debates on whether or not it was necessary or ethical to release it. Additionally, this source includes the unequal distribution of the Booster shot."
 
 tags = ["CDC", "Biden", "FDA"]

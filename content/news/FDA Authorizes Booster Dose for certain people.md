@@ -1,6 +1,7 @@
 +++
 title = "FDA Authorizes Booster Dose of Pfizer-BioNTech COVID-19 Vaccine for Certain Populations"
 date = 2021-09-22
+2021 = ["09"]
 summary = "FDA authorization for a booster dose of Pfizer's Covid-19 vaccine for people in 65 and older, people at high risk of severe disease, and people whose jobs put them at risk of infection."
 tags = ["FDA","EUA"]
 category = "News"

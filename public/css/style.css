@@ -11,14 +11,14 @@ body {
 
 body {
     font-family: 'Lato', sans-serif;
-    display: flex;
+/*    display: flex; */
     min-height: 100vh;
-    flex-direction: column;
+/*    flex-direction: column; */
 }
 
 /* font size  */
 nav {
-    font-size: 1.5rem;
+    font-size: 1.0rem;
 }
 
 .title {
@@ -152,6 +152,10 @@ ol {
     margin-top: 2rem;
 }
 
+.mb-2 {
+    margin-bottom: 2rem;
+}
+
 .mt-4 {
     margin-top: 4rem;
 }
@@ -192,7 +196,7 @@ a.text-capitalize-letter::first-letter {
 
 
 .article img {
-    max-width: 100%;
+    max-width: 50%;
 }
 
 .button {
@@ -243,7 +247,6 @@ aside .toc {
     left: 10px;
     width: 20%;
     border-radius: 5px;
-    margin-left: 5rem;
 }
 
 .toc a {
@@ -309,3 +312,30 @@ tr:last-child > td {
     border-bottom: 1px solid #000;
 }
 
+.tweet-row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+
+.tweet-column {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex: 1;
+}
+
+.tweet-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.tweet-box {
+    width: 50%;
+}
+
+hr {
+    border: 1px dashed black;
+}

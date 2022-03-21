@@ -1,6 +1,7 @@
 +++
 title = "The Dangerous Push to Give Boosters to Teens"
 date = 2021-12-21
+2021 = ["12"]
 summary = "The emergence of the Omicron variant urged the need for boosters, however, underlying data didn't necessarily support that it was time for booster shots to be FDA approved for teens 16 and up when it was announced."
 tags = ["FDA" , "Booster" , "Pfizer" , "Omicron"]
 category = "Oped"

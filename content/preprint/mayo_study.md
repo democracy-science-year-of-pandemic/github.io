@@ -1,6 +1,7 @@
 +++
 title = "Mayo Clinic Study"
 date = 2021-08-21
+2021 = ["08"]
 Summary = "... effectiveness against infection was lower for both vaccines (mRNA-1273: 76%, 95% CI: 58-87%; BNT162b2: 42%, 95% CI: 13-62%)"
 tags = ["waning", "vaccine effectiveness"]
 category = "Preprint"

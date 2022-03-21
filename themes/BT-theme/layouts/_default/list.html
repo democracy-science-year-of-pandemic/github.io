@@ -2,25 +2,20 @@
 
     <!-- common header -->
     {{- partial "header.html" . -}}
-
-    <!-- title -->
-    <div class="container  w-md-55  m-auto mt-2">
-        <div class="sub-title">
-            How to do all the things!
-        </div>
-    </div>
-
     <!-- show all the content -->
+    {{- partial "aside.html" . -}}
     {{ range .Pages }}
-        <div class="container w-md-55 m-auto mt-1">
-            <!-- show if the article has any flags -->
-            {{- partial "flags.html" . -}}
+
+<div class="container m-auto">
+    <div class="w-md-55 m-auto mt-2">
             <!-- title and summary -->
+            <div class="text-small">{{ .Params.category}}</div>
             <div class="text-capitalize-letter">
                 <a  href="{{.Permalink}}">{{ .Title }}</a> 
             </div>
             <div class="text-capitalize-letter" >{{ .Summary }}</div>
-        </div>
+    </div>
+</div>
     {{ end }}
 
 {{ end }}
