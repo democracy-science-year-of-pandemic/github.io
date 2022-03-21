@@ -1,12 +1,25 @@
 {{ define "main" }}
 
     <div class="container m-auto">
-        <div class="text-center mt-4">
-            <div class="title">Booster Timeline</div>
-    </div>
-
+        <div class="w-md-55 m-auto mt-2">
+            <div class="title text-center">Booster Timeline</div>
+        
+    <aside>
+        <div class="toc">
+            <nav id="TableOfContents">
+                <ul>
+                <li>July 2021</li>
+                <li>Aug 2021</li>
+                <li>Sept 2021</li>
+                <li>Oct 2021</li>
+                <li>Nov 2021</li>
+                </ul>
+            </nav>
+        </div>
+    </aside>
    {{- partial "news.html" . -}}
    {{- partial "oped.html" . -}}
    {{- partial "tweets.html" . -}}
-    
+        </div>
+    </div>
 {{ end }}

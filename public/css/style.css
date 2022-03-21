@@ -243,6 +243,7 @@ aside .toc {
     left: 10px;
     width: 20%;
     border-radius: 5px;
+    margin-left: 5rem;
 }
 
 .toc a {
@@ -251,7 +252,7 @@ aside .toc {
 }
 
 #TableOfContents {
-    display: none;
+    display: block;
 }
 
 .ais-InfiniteHits--empty {
