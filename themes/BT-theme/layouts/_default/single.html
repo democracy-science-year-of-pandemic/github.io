@@ -5,36 +5,11 @@
 <div class="container content m-auto">
 
     <div id="article" class="w-md-55 m-auto">
-        <div class="mt-1 article-menu">
-            <!-- <a class="button"
-                href="https://github.com/mainsail-org/how-to/blob/master/content/{{ .File.Path }}">edit</a>
-            <a class="button" target="_blank"
-                href="{{ .Site.Params.flag }}?labels=flag&title=[flag] {{ .Title }}&body={{.Site.Params.flagmessage}}{{ .Permalink }}">report
-                an issue</a>
-
-            {{ if .Params.code }}
-            <a class="button" target="_blank" href="{{ .Params.code }}">code</a>
-            {{ end }}
-            
-
-            <a class="button" target="_blank"
-                href="https://github.com/mainsail-org/how-to/commits/master/content/{{ .File.Path }}">history</a>
-
-            <a class="button" target="_blank" href="{{ .Site.Params.gitter }}">chat</a>
-        -->
-        </div>
 
         <div class="mt-1 article-title text-capitalize-letter">
             {{ .Title }}
         </div>
-<!--        <div class="mt-2 italic post-date">{{ .Params.category }}</div> -->
-        <div class="mt-2 italic post-date">{{ .Date.Format "Jan 2" }}</div>
-
-        <!-- <aside>
-            <div class="toc">
-                {{ .TableOfContents }}
-            </div>
-        </aside> -->
+        <div class="mt-2 italic post-date">{{ .Date.Format "Jan 2, 2006" }}</div>
 
         <div class="mt-2 article">
             <!-- check for a tldr.md file and display the markdown -->

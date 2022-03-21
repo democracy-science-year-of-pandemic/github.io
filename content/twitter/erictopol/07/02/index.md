@@ -3,85 +3,62 @@ title = "Tweets by Eric Topol"
 date = 2021-07-02T01:06:27+00:00
 weight = 100
 category = "Twitter"
+summary = "Keywords: FDA"
 +++
 
 <div class="thread">
-<div class="profile">
-
-
-
-</div>
-</div>
-
-
-
-<a href="https://twitter.com/erictopol/status/1410766785243013121" target="_blank" rel="noreferer">01:06:27 UCT</a>
-
-The @US_FDA's overdue full approval of mRNA vaccines is holding us back from getting millions of more people protected, at a time of urgent need, with the Delta variant on the rise. My guest essay @nytopinion https://www.nytimes.com/2021/07/01/opinion/fda-vaccines-full-approval.html w/ thanks for editing @jopearl
-
-
-
-I start off w/ the paradox of FDA's  accelerated approval of the Alzheimer's drug despite a 10-0 vote against it by their Advisory Committee, 2 clinical trials that did not show clinical benefit, and for any person w/Alzheimer's even though the trials were for early disease, MCI 
-
+    <div class="profile"> 
+       Thread Eric Topol:
+    </div>
+    <div class="thread-content">
+        The @US_FDA's overdue full approval of mRNA vaccines is holding us back from getting millions of more people protected, at a time of urgent need, with the Delta variant on the rise. My guest essay @nytopinion https://www.nytimes.com/2021/07/01/opinion/fda-vaccines-full-approval.html w/ thanks for editing @jopearl
+        
+I start off w/ the paradox of FDA's  accelerated approval of the Alzheimer's drug despite a 10-0 vote against it by their Advisory Committee, 2 clinical trials that did not show clinical benefit, and for any person w/Alzheimer's even though the trials were for early disease, MCI
+        <hr>
 <a href="E5QOZXmVUAMBQnv.jpg"  ><img src="E5QOZXmVUAMBQnv.jpg" alt="Twitter image" ></img></a>
-
-
-Then a brief review of the exceptionally large, completed clinical trials and real world evidence for these vaccines—the 1st ever new vaccines to get Emergency Use Authorization (EUA)—now given to hundreds of millions of people /3 
-
+        
+Then a brief review of the exceptionally large, completed clinical trials and real world evidence for these vaccines—the 1st ever new vaccines to get Emergency Use Authorization (EUA)—now given to hundreds of millions of people /3
+        
 <a href="E5QQCevVgAIIKoJ.jpg"  ><img src="E5QQCevVgAIIKoJ.jpg" alt="Twitter image" ></img></a>
-
-
+<hr>
 A key point is that the FDA began reviewing the full licensure applications (called BLAs) at the end of last year on a rolling, iterative basis. That was started 7 months ago and there was more than ample time to do plant inspections and review manufacturing/production issues /5
-
-
+        
 The US vaccination campaign has hit a plateau, having peaked in April (up to 4.5 M /day) and fallen off since then, just getting abs over 1 million again today
-https://www.nytimes.com/interactive/2020/us/covid-19-vaccine-doses.html /4 
-
+        https://www.nytimes.com/interactive/2020/us/covid-19-vaccine-doses.html /4
+        
 <a href="E5QQ5S7VEAIuGkw.jpg"  ><img src="E5QQ5S7VEAIuGkw.jpg" alt="Twitter image" ></img></a>
-
-<a href="https://twitter.com/erictopol/status/1410777375025942529" target="_blank" rel="noreferer">01:48:31 UCT</a>
-
+<hr>
 Now we face the Delta variant, the most efficient version of the virus yet for finding new hosts, 40% more contagious than Alpha, need for 2-dose mRNA vaccine for full efficacy
-Delta is now &gt;30% of infections, cases are starting to rise in several states
-https://www.nytimes.com/interactive/2021/us/covid-cases.html 6 
-
+        Delta is now &gt;30% of infections, cases are starting to rise in several states
+        https://www.nytimes.com/interactive/2021/us/covid-cases.html 6
+        
 <a href="E5QTTkHUcAEntOK.jpg"  ><img src="E5QTTkHUcAEntOK.jpg" alt="Twitter image" ></img></a>
-
-<a href="https://twitter.com/erictopol/status/1410777379165724679" target="_blank" rel="noreferer">01:48:32 UCT</a>
+        
+<hr>  
 
 The FDA, and @DrWoodcockFDA its acting Director, need to make this the #1 priority, inform the public, provide the timeline. They vigorously defended the Alzheimer's drug misguided approval but have yet to provide 1 word of guidance on this critical matter /f
-
-
-<a href="https://twitter.com/erictopol/status/1410777377559306242" target="_blank" rel="noreferer">01:48:32 UCT</a>
-
+        
 Full licensure by FDA will lead to required vaccination by health systems, the military, universities, private companies, etc (w/ accommodations of masks + frequent testing for people unwilling or unable to be vaccinated). Tens of millions of Americans will likely get vaxxed /7
-
-
----
-
-<a href="https://twitter.com/erictopol/status/1410802213086134279" target="_blank" rel="noreferer">03:27:13 UCT</a>
-
 The lives and health of millions of Americans rest on the F.D.A.’s decision to fully license these vaccines. https://twitter.com/nytopinion/status/1410800437570244609
+        @LDelanoWood Much appreciated 🙏
+
+</div>
 
 
-
----
-
-<a href="https://twitter.com/erictopol/status/1410809259047092229" target="_blank" rel="noreferer">03:55:13 UCT</a>
-
-@LDelanoWood Much appreciated 🙏
+</div>
 
 
-
----
-
-<a href="https://twitter.com/erictopol/status/1410948512217370627" target="_blank" rel="noreferer">13:08:34 UCT</a>
-
-Nothing could make more of a difference for getting US vaccinations amped up right now than the FDA's decision for full approval of vaccines
-
-
-
----
+<div class="thread">
+    <div class="profile"> 
+       Thread Eric Topol:
+    </div>
+    <div class="thread-content">
+        content goes here.
+        <hr>
+        content goes here.
+    </div>
+</div>
+ 
 
 <a href="https://twitter.com/erictopol/status/1410969289041997829" target="_blank" rel="noreferer">14:31:07 UCT</a>
 
