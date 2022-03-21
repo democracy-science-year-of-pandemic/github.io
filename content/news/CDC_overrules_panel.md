@@ -1,6 +1,7 @@
 +++
 title = "CDC Overrules Advisory Panel"
 date = 2021-09-24
+2021 = ["09"]
 Summary = "C.D.C. Chief Overrules Agency Panel and Recommends Pfizer-BioNTech Boosters for Workers at Risk"
 tags = ["CDC", "Advisory Panel"]
 category = "News Article"

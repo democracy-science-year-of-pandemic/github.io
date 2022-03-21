@@ -1,6 +1,7 @@
 +++
  title = "New Study of Covid Booster Shots Fans Debate Over Benefits"
  date = 2021-09-15
+ 2021 = ["01"]
  Summary = "As a short period study on the effectiveness of a third booster is released from Israel, Government and health officials debate on whether to push for a booster and for whom, all before the F.D.A has even approved a third dose "
  tag = []
  category=  "News"

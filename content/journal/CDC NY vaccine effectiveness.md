@@ -2,7 +2,7 @@
 title = "CDC NY vaccine effectiveness"
 
 date = 2021-08-18
-
+2021 = ["08"]
 Summary = "Vaccine effectiveness against hospitalization remains relatively stable, but drops against infection."
 
 tags = []

@@ -1,6 +1,7 @@
 +++
 title = "Lancet Letter Opposing Boosters"
 date = 2021-09-10
+2021 = ["09"]
 Summary = "...current vaccine supplies could save more lives if used in previously unvaccinated populations than if used as boosters in vaccinated populations."
 tags = ["Krause", "Advisory Panel"]
 category = "Journal"
