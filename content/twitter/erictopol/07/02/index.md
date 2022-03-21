@@ -39,8 +39,6 @@ https://www.nytimes.com/interactive/2020/us/covid-19-vaccine-doses.html /4
 
 <a href="E5QQ5S7VEAIuGkw.jpg"  ><img src="E5QQ5S7VEAIuGkw.jpg" alt="Twitter image" ></img></a>
 
----
-
 <a href="https://twitter.com/erictopol/status/1410777375025942529" target="_blank" rel="noreferer">01:48:31 UCT</a>
 
 Now we face the Delta variant, the most efficient version of the virus yet for finding new hosts, 40% more contagious than Alpha, need for 2-dose mRNA vaccine for full efficacy
@@ -49,20 +47,14 @@ https://www.nytimes.com/interactive/2021/us/covid-cases.html 6
 
 <a href="E5QTTkHUcAEntOK.jpg"  ><img src="E5QTTkHUcAEntOK.jpg" alt="Twitter image" ></img></a>
 
----
-
 <a href="https://twitter.com/erictopol/status/1410777379165724679" target="_blank" rel="noreferer">01:48:32 UCT</a>
 
 The FDA, and @DrWoodcockFDA its acting Director, need to make this the #1 priority, inform the public, provide the timeline. They vigorously defended the Alzheimer's drug misguided approval but have yet to provide 1 word of guidance on this critical matter /f
 
 
-
----
-
 <a href="https://twitter.com/erictopol/status/1410777377559306242" target="_blank" rel="noreferer">01:48:32 UCT</a>
 
 Full licensure by FDA will lead to required vaccination by health systems, the military, universities, private companies, etc (w/ accommodations of masks + frequent testing for people unwilling or unable to be vaccinated). Tens of millions of Americans will likely get vaxxed /7
-
 
 
 ---
