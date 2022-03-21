@@ -5,8 +5,15 @@ weight = 100
 category = "Twitter"
 +++
 
+<div class="thread">
+<div class="profile">
 
----
+
+
+</div>
+</div>
+
+
 
 <a href="https://twitter.com/erictopol/status/1410766785243013121" target="_blank" rel="noreferer">01:06:27 UCT</a>
 
@@ -14,33 +21,18 @@ The @US_FDA's overdue full approval of mRNA vaccines is holding us back from get
 
 
 
----
-
-<a href="https://twitter.com/erictopol/status/1410768973424037888" target="_blank" rel="noreferer">01:15:08 UCT</a>
-
 I start off w/ the paradox of FDA's  accelerated approval of the Alzheimer's drug despite a 10-0 vote against it by their Advisory Committee, 2 clinical trials that did not show clinical benefit, and for any person w/Alzheimer's even though the trials were for early disease, MCI 
 
 <a href="E5QOZXmVUAMBQnv.jpg"  ><img src="E5QOZXmVUAMBQnv.jpg" alt="Twitter image" ></img></a>
 
----
-
-<a href="https://twitter.com/erictopol/status/1410777364955492352" target="_blank" rel="noreferer">01:48:29 UCT</a>
 
 Then a brief review of the exceptionally large, completed clinical trials and real world evidence for these vaccines—the 1st ever new vaccines to get Emergency Use Authorization (EUA)—now given to hundreds of millions of people /3 
 
 <a href="E5QQCevVgAIIKoJ.jpg"  ><img src="E5QQCevVgAIIKoJ.jpg" alt="Twitter image" ></img></a>
 
----
-
-<a href="https://twitter.com/erictopol/status/1410777370923962371" target="_blank" rel="noreferer">01:48:30 UCT</a>
 
 A key point is that the FDA began reviewing the full licensure applications (called BLAs) at the end of last year on a rolling, iterative basis. That was started 7 months ago and there was more than ample time to do plant inspections and review manufacturing/production issues /5
 
-
-
----
-
-<a href="https://twitter.com/erictopol/status/1410777369019785216" target="_blank" rel="noreferer">01:48:30 UCT</a>
 
 The US vaccination campaign has hit a plateau, having peaked in April (up to 4.5 M /day) and fallen off since then, just getting abs over 1 million again today
 https://www.nytimes.com/interactive/2020/us/covid-19-vaccine-doses.html /4 

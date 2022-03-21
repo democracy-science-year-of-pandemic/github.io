@@ -8,31 +8,33 @@ category = "Twitter"
 
 ---
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">1/ Only 1 in 4 pregnant people in the U.S. are vaccinated against <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> <br><br>Rather than jump to conclusions, we surveyed 500 pregnant people across the country to ask them why they are hesitant...<br><br>Quick 🧵on what the data showed and what it means <a href="https://t.co/xU2LoP2pWN">https://t.co/xU2LoP2pWN</a></p>&mdash; Neel Shah, MD (@neel_shah) <a href="https://twitter.com/neel_shah/status/1454094889793228813?ref_src=twsrc%5Etfw">October 29, 2021</a></blockquote>  
+
+
+---
+test
+
+---
+
 <a href="https://twitter.com/erictopol/status/1410395644187971584" target="_blank" rel="noreferer">00:31:40 UCT</a>
 
-@soupvector No, I mean Canada. Leads the world in 1st dose.
-On its way to doing the same in fully vaccinating.
-These are cumulative graphs.
-And pace does matter, especially right now
-(I am not Canadian and have no relationship with Canada other than admiring their vaccination campaign) 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">  Eric Topol (@EricTopol) <a href="https://twitter.com/EricTopol/status/1410395644187971584?ref_src=twsrc%5Etfw">July 1, 2021</a></blockquote>
 
-<a href="E5K68DOUYAAAhsM.jpg"  ><img src="E5K68DOUYAAAhsM.jpg" alt="Twitter image" ></img></a><a href="E5K69nHUUAgIFtz.jpg"  ><img src="E5K69nHUUAgIFtz.jpg" alt="Twitter image" ></img></a>
+---
+test3 
 
 ---
 
-<a href="https://twitter.com/erictopol/status/1410423621558804482" target="_blank" rel="noreferer">02:22:50 UCT</a>
 
-The 5 US states leading case growth (per capita), achieving at or near dominance of the Delta variant, and their vaccination rates. US fully vaccinated avg is 47%.
-The 10+ cases/100,000 people are still relatively low, but the trend is notable 
-
-<a href="E5LUfU-VUAUT2j0.png"  ><img src="E5LUfU-VUAUT2j0.png" alt="Twitter image" ></img></a><a href="E5LUVgeVoAEdekF.jpg"  ><img src="E5LUVgeVoAEdekF.jpg" alt="Twitter image" ></img></a>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"> <a href="https://twitter.com/EricTopol/status/1410423621558804482?ref_src=twsrc%5Etfw"></a></blockquote>
 
 ---
 
-<a href="https://twitter.com/erictopol/status/1410442448707284994" target="_blank" rel="noreferer">03:37:39 UCT</a>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"> <a href="https://twitter.com/EricTopol/status/1410423621558804482?ref_src=twsrc%5Etfw"></a></blockquote>
 
-Thailand, for more than 12 months of the pandemic had total containment, but now with 10% 1st-dose vaccinated and ~30% Delta variant (http://outbreak.info) things have drastically changed
-@OurWorldInData 
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"> <a href="https://twitter.com/EricTopol/status/1410585514881667082?ref_src=twsrc%5Etfw"></a></blockquote>
 
 <a href="E5Ll3AuVkAgrYXy.jpg"  ><img src="E5Ll3AuVkAgrYXy.jpg" alt="Twitter image" ></img></a><a href="E5Llj2OVcAMrcoL.jpg"  ><img src="E5Llj2OVcAMrcoL.jpg" alt="Twitter image" ></img></a>
 
@@ -187,3 +189,5 @@ Mississippi Delta
 <a href="E5Pp7bgVUAMirD7.jpg"  ><img src="E5Pp7bgVUAMirD7.jpg" alt="Twitter image" ></img></a>
 
 ---
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
