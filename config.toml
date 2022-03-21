@@ -13,3 +13,6 @@ baseURL = "https://democracy-science-year-of-pandemic.github.io"
     disable = true
   [privacy.youtube]
     disable = true
+
+[permalinks]
+    post = '/:year/:month/:slug'
