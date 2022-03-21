@@ -258,6 +258,14 @@ aside .toc {
     display: block;
 }
 
+#TableOfContents ul {
+    list-style: none;
+}
+
+#TableOfContents a.active {
+    color: blue;
+}
+
 .ais-InfiniteHits--empty {
     margin-top: 2rem;
     font-size: 1rem;
@@ -338,4 +346,14 @@ tr:last-child > td {
 
 hr {
     border: 1px dashed black;
+}
+
+.list-inline li {
+    display: inline;
+    margin-right: 10px;
+    text-align: center;
+}
+
+a.menu {
+    color: black;
 }

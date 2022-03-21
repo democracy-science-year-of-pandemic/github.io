@@ -2,12 +2,58 @@
     <div class="toc">
         <nav id="TableOfContents">
             <ul>
-                <li><a href="/">Home</a></li>
+                {{ $site_url := .Site.BaseURL }}
+                {{ $current_page := .Permalink }}
+                {{ $current_path := substr (replace $current_page .Site.BaseURL "" ) 0 -1 }}
+
+                {{ if eq (len $current_path) 0  }}
+                    <li><a class="text-underline active" href="/">Home</a></li>
+                {{ else }}
+                    <li><a class="text-underline" href="/">Home</a></li>
+                {{ end }}
+
+                {{ if eq $current_path "journal" }}
+                     <li><a class="menu active" href="/journal">Journals</a></li>
+                {{ else }}
+                     <li><a class="menu" href="/journal">Journals</a></li>
+                {{ end }}
+
+                {{ if eq $current_path "news" }}
+                    <li><a class="menu active" href="/news">News</a></li>
+                {{ else }}
+                    <li><a class="menu" href="/news">News</a></li>
+                {{ end }}
+
+                {{ if eq $current_path "oped" }}
+                     <li><a class="menu active" href="/oped">OP-Ed</a></li>
+                {{ else }}
+                    <li><a class="menu" href="/oped">OP-Ed</a></li>
+                {{ end }}
+
+                {{ if eq $current_path "preprint" }}
+                    <li><a class="menu active" href="/preprint">Preprint</a></li>
+                {{ else }}
+                    <li><a class="menu" href="/preprint">Preprint</a></li>
+                {{ end }}
+
+                {{ if eq $current_path "twitter" }}
+                    <li><a class="menu active" href="/twitter">Twitter</a></li>
+                {{ else }}
+                     <li><a class="menu" href="/twitter">Twitter</a></li>
+                {{ end }}
+
+                <li class="pt-2">By date:</li>
                 {{ range $value := .Site.Pages.GroupByDate "January 2006" }}
                 {{ $url := (index $value.Pages 0).Date.Format "2006/01" | urlize }}
-                        <li><a href="/{{ $url }}">{{ .Key }} </a></li>
+                    {{ $current_path := substr (replace $current_page $site_url "" ) 0 -1 }}
+                        {{ if eq $current_path $url }}
+                            <li><a class="active text-underline" href="/{{ $url }}">{{ .Key }} </a></li>
+                        {{ else }}
+                            <li><a class=" text-underline" href="/{{ $url }}">{{ .Key }} </a></li>
+                        {{ end }}
                 {{ end }}
             </ul>
+
         </nav>
     </div>
 </aside>
