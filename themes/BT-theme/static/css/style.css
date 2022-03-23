@@ -67,6 +67,10 @@ h2 {
 
 }
 
+.hidden {
+    display: none !important;
+}
+
 .content {
     font-size: 1.15rem;
     line-height: 1.8rem;
@@ -359,12 +363,21 @@ a.menu {
 }
 
 
-.thread {
+.thread, .tweet {
     border: 1px solid lightgray;
     border-radius: 10px;
     padding: 1rem;
     width: 515px;
     margin-top: 1rem;
+}
+
+.in-reply-to {
+    font-size: 0.9rem;
+    font-style: italic;
+}
+
+.in-reply-to a {
+    color: #1DA1F2;
 }
 
 .thread hr {
@@ -376,4 +389,8 @@ a.menu {
 .profile {
     font-family: 'Josefin Sans', sans-serif;
     font-weight: bold;
+}
+
+.cursor-pointer {
+    cursor: pointer;
 }

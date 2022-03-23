@@ -5,21 +5,26 @@ category = "Twitter"
 summary = "Keywords: FDA"
 +++
 
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1410948512217370627?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1410969289041997829?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1410988971320954881?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
+<div class="tweet">
+    <div class="profile"> 
+       Thread Eric Topol:
+    </div>
+    <div class="tweet-content">
+       Nothing could make more of a difference for getting US vaccinations amped up right now than the FDA's decision for full approval of vaccines
+    </div>
+</div>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1411000739007057926?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<div class="tweet">
+    <div class="profile"> 
+       Tweet by Eric Topol:
+    </div>
+    <div class="in-reply-to">in reply to <a href="https://twitter.com/JoshuaPCohen1/status/1410998427446661123">this tweet</a> </div>
+    <div class="tweet-content">
+        Nothing could make more of a difference for getting US vaccinations amped up right now than the FDA's decision for full approval of vaccines
+    </div>
+</div>
 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1411012902304174082?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
