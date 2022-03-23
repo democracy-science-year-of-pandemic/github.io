@@ -4,19 +4,22 @@
     {{- partial "header.html" . -}}
     <!-- show all the content -->
     {{- partial "aside.html" . -}}
-    {{ range .Pages }}
-
-<div class="container m-auto">
-    <div class="w-md-55 m-auto mt-2">
-            <!-- title and summary -->
-            <div class="text-small">{{ .Params.category}}</div>
-            <div class="text-capitalize-letter">
-                <a  href="{{.Permalink}}">{{ .Title }}</a>
+        <div class="container m-auto">
+            <div class="w-md-55 m-auto mt-2">
+                {{ range .Pages }}
+                    {{ $year_month := .Date | time.Format "2006/01" }}
+                        <div class="content-item" data-content="{{$year_month}}">
+                            <!-- title and summary -->
+                            <div class="text-small">{{ .Params.category}}</div>
+                            <div class="text-capitalize-letter">
+                                <a  href="{{.Permalink}}">{{ .Title }}</a>
+                            </div>
+                            <div class="text-small">{{ .Date.Format "January 2, 2006" }}</div>
+                            <div class="text-capitalize-letter" >{{ .Summary }}</div>
+                        </div>
+                {{ end }}
             </div>
-            <div class="text-small">{{ dateFormat "January 2, 2006" .Params.Date }}</div>
-            <div class="text-capitalize-letter" >{{ .Summary }}</div>
-    </div>
-</div>
-    {{ end }}
+        </div>
+
 
 {{ end }}
