@@ -11,8 +11,9 @@
             <!-- title and summary -->
             <div class="text-small">{{ .Params.category}}</div>
             <div class="text-capitalize-letter">
-                <a  href="{{.Permalink}}">{{ .Title }}</a> 
+                <a  href="{{.Permalink}}">{{ .Title }}</a>
             </div>
+            <div class="text-small">{{ dateFormat "January 2, 2006" .Params.Date }}</div>
             <div class="text-capitalize-letter" >{{ .Summary }}</div>
     </div>
 </div>
