@@ -3,12 +3,13 @@
 
         <h2>Op-ed</h2>
         {{ range $section_content }}
-        <div class="mt-1">
-            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-            <div>
-                <div>{{ .Date.Format "Jan 02" }} </div>
-                <div>{{ .Params.Summary }}</div>
+            {{ $year_month := .Date | time.Format "2006/01" }}
+            <div class="content-item mt-1" data-content="{{$year_month}}">
+                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                <div>
+                    <div class="text-small">{{ .Date.Format "Jan 02 2006" }} </div>
+                    <div>{{ .Params.Summary }}</div>
+                </div>
             </div>
-        </div>
         {{ end }}
         </ul>

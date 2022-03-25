@@ -42,18 +42,28 @@
                      <li><a class="menu" href="/twitter">Twitter</a></li>
                 {{ end }}
 
-                <li class="pt-2">By date:</li>
-                {{ range $value := .Site.Pages.GroupByDate "January 2006" }}
-                {{ $url := (index $value.Pages 0).Date.Format "2006/01" | urlize }}
-                    {{ $current_path := substr (replace $current_page $site_url "" ) 0 -1 }}
-                        {{ if eq $current_path $url }}
-                            <li><a class="active text-underline" href="/{{ $url }}">{{ .Key }} </a></li>
-                        {{ else }}
-                            <li><a class=" text-underline" href="/{{ $url }}">{{ .Key }} </a></li>
-                        {{ end }}
+                {{ if eq $current_path "/pages/archive" }}
+                    <li><a class="menu active" href="/pages/archive">Archive</a></li>
+                {{ else }}
+                    <li><a class="menu" href="/pages/archive">Archive</a></li>
                 {{ end }}
+
+                <li class="mt-4">
+
+
+                    <li class="text-small">Filter by date:</li>
+                    <li data-filter="all" class="filter-item cursor-pointer">All</li>
+                    {{ range $value := .Site.Pages.GroupByDate "January 2006" }}
+                    {{ $year_month := (index $value.Pages 0).Date.Format "2006/01" | urlize }}
+                    <li class="filter-item cursor-pointer" data-filter="{{$year_month}}">{{ .Key }}</li>
+                    {{ end }}
+
+
+                </li>
             </ul>
 
         </nav>
     </div>
 </aside>
+
+<script src="/js/filter.js"></script>
