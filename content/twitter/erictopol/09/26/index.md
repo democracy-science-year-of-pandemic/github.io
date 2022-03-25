@@ -5,36 +5,63 @@ category = "Twitter"
 +++
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1442128147290361856?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+---
+
+<a href="https://twitter.com/erictopol/status/1442128147290361856" target="_blank" rel="noreferer">14:05:18 UCT</a>
+
+RT @thehowie: More than 50% of all of Israel &amp; &gt;70% over 60 years have already received a booster shot. Transmission also appears to be sub…
 
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1442157389055070219?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+---
 
+<a href="https://twitter.com/erictopol/status/1442157389055070219" target="_blank" rel="noreferer">16:01:30 UCT</a>
 
+Breakthrough infections and hospitalizations in over 3 million fully vaccinated persons @VeteransHealth, mostly pre-Delta wave
+https://www.medrxiv.org/content/10.1101/2021.09.23.21263864v1
+J&amp;J vaccine less protection vs hospitalization than mRNA vaccines; Moderna more protective than Pfizer 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1442170791613763592?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="FAOQqMcUYAow_ee.jpg"  ><img src="FAOQqMcUYAow_ee.jpg" alt="Twitter image" ></img></a>
 
+---
 
+<a href="https://twitter.com/erictopol/status/1442170791613763592" target="_blank" rel="noreferer">16:54:45 UCT</a>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1442175271218475016?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+The tragedy in Alaska.
+143/100,000 is a new case/population record for any US state in the Delta wave. And higher than any country in the world. 
+"A record 217 hospitalizations reported Friday were not part of the data backlog"
+ https://www.adn.com/alaska-news/2021/09/24/alaska-reports-nearly-1800-new-covid-19-cases-and-44-deaths-in-part-due-to-backlog/ 
 
+<a href="FAOdXBBVcAkEQtB.jpg"  ><img src="FAOdXBBVcAkEQtB.jpg" alt="Twitter image" ></img></a>
 
+---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1442179314368147456?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/erictopol/status/1442175271218475016" target="_blank" rel="noreferer">17:12:33 UCT</a>
 
+The bottom line is masks work ... If you have the ability to choose between a cloth and a surgical mask, go with surgical. But the best mask is one that a person will actually wear and wear correctly.
+https://www.nytimes.com/2021/09/26/opinion/do-masks-work-for-covid-prevention.html @nytopinion 
 
+<a href="FAOiDZXUcAAFK6L.jpg"  ><img src="FAOiDZXUcAAFK6L.jpg" alt="Twitter image" ></img></a>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1442210687376261120?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+---
 
+<a href="https://twitter.com/erictopol/status/1442210687376261120" target="_blank" rel="noreferer">19:33:17 UCT</a>
 
+South Korea's Delta outbreak. 
+With a population of 51.3 million, limited to avg 7 deaths/day (Total population vaccination: 74% 1st dose, 45% 2-doses)
+Population-adjusted for US, fatalities would equal 45.
+Actual number of US deaths/day, 7-day avg = 2,045
+@OurWorldInData 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1442234836572200969?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="FAPCl77VIAUDnL2.jpg"  ><img src="FAPCl77VIAUDnL2.jpg" alt="Twitter image" ></img></a>
 
+---
 
+<a href="https://twitter.com/erictopol/status/1442333910369665025" target="_blank" rel="noreferer">03:42:56 UCT</a>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1442333910369665025?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+The Covid-19 pandemic has resulted in the largest loss of life expectancy since World War II, worst among American men
+https://academic.oup.com/ije/advance-article/doi/10.1093/ije/dyab207/6375510?searchresult=1 @jm_aburto @UniofOxford @OxfordDemSci @ridhikash07 @melindacmills 
 
-
+<a href="FAQxxvDVkAEgxGv.png"  ><img src="FAQxxvDVkAEgxGv.png" alt="Twitter image" ></img></a>
 
 ---

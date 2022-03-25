@@ -5,43 +5,62 @@ category = "Twitter"
 +++
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1462317887423541248?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+---
+
+<a href="https://twitter.com/erictopol/status/1462317887423541248" target="_blank" rel="noreferer">07:12:07 UCT</a>
+
+RT @Logik_ist_geil: @EricTopol A disaster is happening here in Austria (one of the best health systems in the world), please take the wave…
 
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1462480325154467842?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+---
+
+<a href="https://twitter.com/erictopol/status/1462450434698665985" target="_blank" rel="noreferer">15:58:49 UCT</a>
+
+How could Austria, with a fully vaccinated rate of 64%, have the highest Covid cases per capita in the world?
+"Austria’s problem... is the large number of vaccine refuseniks nourished with conspiracy theories then amplified by far-right political parties."
+https://www.ft.com/content/1b164c18-737f-4b82-b40d-e957b545e38e 
+
+<a href="FEuqm4JVkAoi-lH.jpg"  ><img src="FEuqm4JVkAoi-lH.jpg" alt="Twitter image" ></img></a>
+
+---
+
+<a href="https://twitter.com/erictopol/status/1462480325154467842" target="_blank" rel="noreferer">17:57:35 UCT</a>
+
+That over 3 million children age 5-11 in the US have been vaccinated without a reported case of myocarditis so far is encouraging
 
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1462480325154467842?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+---
 
+<a href="https://twitter.com/erictopol/status/1462493892369022979" target="_blank" rel="noreferer">18:51:30 UCT</a>
 
+How to generate a new surge?
+Have 40% of Americans not fully vaccinated, and another 40% vaccinated but waned (past 6 months).  https://twitter.com/EricTopol/status/1462150362454847489
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1462480325154467842?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="FEvQTLjVUAE7LaV.jpg"  ><img src="FEvQTLjVUAE7LaV.jpg" alt="Twitter image" ></img></a><a href="FEvSI1nVQAIQHlK.jpg"  ><img src="FEvSI1nVQAIQHlK.jpg" alt="Twitter image" ></img></a>
 
+---
 
+<a href="https://twitter.com/erictopol/status/1462507006552514560" target="_blank" rel="noreferer">19:43:37 UCT</a>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1462480325154467842?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+What's the difference between endemic and pandemic? 
 
+<a href="FEveVQbVUAA3gyE.jpg"  ><img src="FEveVQbVUAA3gyE.jpg" alt="Twitter image" ></img></a>
 
+---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1462493892369022979?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/erictopol/status/1462550485135618048" target="_blank" rel="noreferer">22:36:23 UCT</a>
 
+The striking booster (3rd dose) effect of mRNA vaccines on neutralizing antibodies vs Delta, and in people with prior Covid who were vaccinated https://www.medrxiv.org/content/10.1101/2021.11.19.21266555v1 
 
+<a href="FEwDCERUYAcHr96.jpg"  ><img src="FEwDCERUYAcHr96.jpg" alt="Twitter image" ></img></a>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1462507006552514560?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+---
 
+<a href="https://twitter.com/erictopol/status/1462588800383664128" target="_blank" rel="noreferer">01:08:38 UCT</a>
 
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1462550485135618048?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1462550488994377729?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1462588800383664128?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+RT @leonidkruglyak: @AnnikaKirstenR @EricTopol that number would mean that the risk for those boosted is 20 times lower than for those vacc…
 
 
 

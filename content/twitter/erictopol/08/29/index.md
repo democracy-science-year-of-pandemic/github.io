@@ -5,80 +5,105 @@ category = "Twitter"
 +++
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1431986723639025668?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+---
+
+<a href="https://twitter.com/erictopol/status/1431986723639025668" target="_blank" rel="noreferer">14:26:54 UCT</a>
+
+Hospitalizations in 8 states, &gt;250 hospitals, during the US Delta wave
+"For June 27 - July 24, hospitalization rates were ≥10 times higher in unvaccinated persons compared with vaccinated persons for all age groups across all weeks"
+https://www.medrxiv.org/content/10.1101/2021.08.27.21262356v1 #VaccinesWork 
+
+<a href="E99vykRVcAAvAbW.jpg"  ><img src="E99vykRVcAAvAbW.jpg" alt="Twitter image" ></img></a>
+
+---
+
+<a href="https://twitter.com/erictopol/status/1432004324276662272" target="_blank" rel="noreferer">15:36:50 UCT</a>
+
+This, in today's @nytimes print edition 
+
+<a href="E9-AVmTVgAAuUjl.jpg"  ><img src="E9-AVmTVgAAuUjl.jpg" alt="Twitter image" ></img></a>
+
+---
+
+<a href="https://twitter.com/erictopol/status/1432024527140175873" target="_blank" rel="noreferer">16:57:07 UCT</a>
+
+Salt substitute really worked well to reduce major cardiovascular events in a large randomized trial conducted in China 
+@NEJM today #ESCCongress2021 
+https://www.nejm.org/doi/full/10.1056/NEJMoa2105675?query=featured_home 
+
+<a href="E9-SV9PVIA0uF3v.jpg"  ><img src="E9-SV9PVIA0uF3v.jpg" alt="Twitter image" ></img></a><a href="E9-SXUUUUAMSjbj.jpg"  ><img src="E9-SXUUUUAMSjbj.jpg" alt="Twitter image" ></img></a>
+
+---
+
+<a href="https://twitter.com/erictopol/status/1432030605554814986" target="_blank" rel="noreferer">17:21:16 UCT</a>
+
+Israel's booster shot program opened to all age ≥12, 5 months out 
+https://www.jpost.com/israel-news/covid-19-in-israel-number-of-serious-patients-rises-again-hospital-strike-goes-on-678025
+"those who received a booster are ten times more protected from infection and serious symptoms compared to those who just got two doses"—Dr, Sharon Alroy-Preis @Jerusalem_Post
 
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1432001742011392011?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+---
+
+<a href="https://twitter.com/erictopol/status/1432033828021813249" target="_blank" rel="noreferer">17:34:05 UCT</a>
+
+Israeli data for 1 million people, age &gt; 60, 4 million person-days with no booster vs 3.4 million person-days with booster
+&gt;10-fold reduction of severe illness
+~11 fold reduction of infections
+Preprint by @MiloLabWIS @IsraelMoH and colleagues just posted
+https://www.gov.il/BlobFolder/reports/vaccine-efficacy-safety-follow-up-committee/he/files_publications_corona_booster-27082021.pdf 
+
+<a href="E9-atI9VIAYGSyn.jpg"  ><img src="E9-atI9VIAYGSyn.jpg" alt="Twitter image" ></img></a>
+
+---
+
+<a href="https://twitter.com/erictopol/status/1432054828633444358" target="_blank" rel="noreferer">18:57:32 UCT</a>
+
+Another new Israeli preprint quantifies the extent to waning immunity, for both infections and severe illness, by age group. Bottom figure for age &gt; 60, the earliest group to receive vaccination
+https://www.gov.il/BlobFolder/reports/vaccine-efficacy-safety-follow-up-committee/he/files_publications_corona_immunity-waning-082021.pdf 
+
+<a href="E9-tzKCVkAQ4jUh.jpg"  ><img src="E9-tzKCVkAQ4jUh.jpg" alt="Twitter image" ></img></a>
+
+---
+
+<a href="https://twitter.com/erictopol/status/1432072295288213509" target="_blank" rel="noreferer">20:06:56 UCT</a>
+
+The preliminary findings from Israel today of the booster &gt;10-fold reduction of severe illness aligns with the what has been established for primary vaccination efficacy and neutralizing level antibodies https://twitter.com/EricTopol/status/1413925899443916800
 
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1432004324276662272?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+---
+
+<a href="https://twitter.com/erictopol/status/1432094639553540098" target="_blank" rel="noreferer">21:35:43 UCT</a>
+
+Initial impressions from a couple of weeks ago still hold, with more pronounced impact on protection from severe illness than projected (if today's @IsraelMOH report in age &gt; 60 extends over follow-up time and across all age groups) https://twitter.com/EricTopol/status/1427632692158468107
 
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1432024527140175873?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+---
+
+<a href="https://twitter.com/erictopol/status/1432096471587778560" target="_blank" rel="noreferer">21:43:00 UCT</a>
+
+Stop the dreaming. 
+We should be going after this flat out. 
+https://www.sciencemag.org/news/2021/04/vaccines-can-protect-against-many-coronaviruses-could-prevent-another-pandemic @ScienceMagazine @sciencecohen 
+
+<a href="E9_Tl5JUUAQE7d0.jpg"  ><img src="E9_Tl5JUUAQE7d0.jpg" alt="Twitter image" ></img></a>
+
+---
+
+<a href="https://twitter.com/erictopol/status/1432145480109019137" target="_blank" rel="noreferer">00:57:45 UCT</a>
+
+RT @DFisman: Thought-provoking thread. https://twitter.com/EricTopol/status/1429835698765324289
 
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1432030605554814986?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+---
 
+<a href="https://twitter.com/erictopol/status/1432165665004081156" target="_blank" rel="noreferer">02:17:57 UCT</a>
 
+Hopefully, ~100,000 US hospitalizations will be the peak of the Delta wave. For the past 4 days, the number of inpatients has been gradually decreasing 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1432033828021813249?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1432035402815209474?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1432054828633444358?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1432072295288213509?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1432084373906419713?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1432093892141195265?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1432094639553540098?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1432096471587778560?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1432138204535164933?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1432141559592411136?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1432142375678144514?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1432145480109019137?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1432165665004081156?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1432173768403677184?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
+<a href="E-ASxQfVkAI0lcA.jpg"  ><img src="E-ASxQfVkAI0lcA.jpg" alt="Twitter image" ></img></a>
 
 ---

@@ -5,80 +5,105 @@ category = "Twitter"
 +++
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1442479687767183369?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+---
+
+<a href="https://twitter.com/erictopol/status/1442479687767183369" target="_blank" rel="noreferer">13:22:12 UCT</a>
+
+Our covid times :-) 
+
+<a href="FAS3X5SVkAcx80Q.jpg"  ><img src="FAS3X5SVkAcx80Q.jpg" alt="Twitter image" ></img></a>
+
+---
+
+<a href="https://twitter.com/erictopol/status/1442510283709169666" target="_blank" rel="noreferer">15:23:46 UCT</a>
+
+A very insightful piece by ⁦@dwallacewells⁩ ⁦@NYMag⁩ on the exponential growth of mortality risk of age w/ Covid, including breakthrough infections https://apple.news/AG9_6kF0uQH-eKkTI_a7YiQ
 
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1442510283709169666?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+---
+
+<a href="https://twitter.com/erictopol/status/1442525607426867200" target="_blank" rel="noreferer">16:24:40 UCT</a>
+
+We still don't know the mechanism for the rare cases of vaccine-induced myocarditis. John Campbells's point of aspirating the syringe, to be sure the needle is not in a vein, and the data he provides here, shouldn't be dismissed
+ https://www.youtube.com/watch?v=nBaIRm4610o
 
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1442510624794103809?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+---
+
+<a href="https://twitter.com/erictopol/status/1442546856790093832" target="_blank" rel="noreferer">17:49:06 UCT</a>
+
+The difference in pattern of the UK and EU
+Perhaps, in part, related to first mover disadvantage of being months earlier in vaccination campaign and susceptibility to waning impact 
+
+<a href="FAT0UdsVkAU_x6R.jpg"  ><img src="FAT0UdsVkAU_x6R.jpg" alt="Twitter image" ></img></a><a href="FAT0Wy-UcAYVg9D.jpg"  ><img src="FAT0Wy-UcAYVg9D.jpg" alt="Twitter image" ></img></a>
+
+---
+
+<a href="https://twitter.com/erictopol/status/1442602660717203466" target="_blank" rel="noreferer">21:30:51 UCT</a>
+
+Trust in scientists has changed during the pandemic, which varies considerably in the 12 countries studied, and has affected compliance with mitigation measures and vaccination uptake
+https://www.pnas.org/content/118/40/e2108576118
+@PNASNews 
+
+<a href="FAUnDmFUcAAyB7W.jpg"  ><img src="FAUnDmFUcAAyB7W.jpg" alt="Twitter image" ></img></a>
+
+---
+
+<a href="https://twitter.com/erictopol/status/1442604660477476871" target="_blank" rel="noreferer">21:38:48 UCT</a>
+
+For Covid-19, more than ever before, it's vital to keep clinicians in the US healthcare workforce. These are 10 steps that will help
+https://www.acpjournals.org/doi/10.7326/M21-3381
+@AnnalsofIM @ACPinternists @EileenBarrettNM @DarilynMoyer 
+
+<a href="FAUowbZVgAcQvjj.jpg"  ><img src="FAUowbZVgAcQvjj.jpg" alt="Twitter image" ></img></a>
+
+---
+
+<a href="https://twitter.com/erictopol/status/1442605180277587970" target="_blank" rel="noreferer">21:40:51 UCT</a>
+
+The link for this now up @NYMag 
+https://nymag.com/intelligencer/2021/09/covid-19-vaccine-status-age-discrimination.html https://twitter.com/EricTopol/status/1442510283709169666
 
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1442522344895881228?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+---
+
+<a href="https://twitter.com/erictopol/status/1442636685083222016" target="_blank" rel="noreferer">23:46:03 UCT</a>
+
+The lung microbiome contributes to an individual's susceptibility to getting severe Covid.
+https://www.nature.com/articles/s41564-021-00969-x
+Other key factors include inadequate adaptive alveolar immune response and viral burden @NatureMicrobiol
 
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1442525607426867200?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+---
+
+<a href="https://twitter.com/erictopol/status/1442638666342432770" target="_blank" rel="noreferer">23:53:55 UCT</a>
+
+A change in leadership at @US_FDA's Office of Vaccines Research and Review. This was necessitated by the resignation of the 2 FDA scientists who also led a strident opposition to use of 3rd shots  https://www.nytimes.com/2021/09/27/us/politics/fda-vaccine-regulator-peter-marks.html by @noahweiland
 
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1442540287901855749?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+---
+
+<a href="https://twitter.com/erictopol/status/1442641634340995072" target="_blank" rel="noreferer">00:05:43 UCT</a>
+
+Why are symptomatic post-vaccination covid infections, without hospitalization (H), important?
+—they can be severe, on the brink of H
+—they can result in #LongCovid 
+—they can transmit to others 
+—they were the primary endpoint of the vaccine clinical trials for efficacy
 
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1442546856790093832?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+---
 
+<a href="https://twitter.com/erictopol/status/1442698641760604168" target="_blank" rel="noreferer">03:52:14 UCT</a>
 
+We're about to break below 80,000 US covid hospitalizations, for the 1st time in over 6 weeks 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1442551269139247106?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1442602660717203466?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1442604660477476871?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1442605180277587970?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1442636685083222016?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1442698641760604168?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1442698641760604168?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1442698641760604168?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1442698641760604168?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1442698641760604168?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1442698641760604168?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1442698641760604168?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
+<a href="FAV-vPcUcAIsWeX.jpg"  ><img src="FAV-vPcUcAIsWeX.jpg" alt="Twitter image" ></img></a>
 
 ---

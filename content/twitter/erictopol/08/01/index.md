@@ -5,99 +5,121 @@ category = "Twitter"
 +++
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1421834255127093249?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+---
 
+<a href="https://twitter.com/erictopol/status/1421834255127093249" target="_blank" rel="noreferer">14:04:37 UCT</a>
 
+Our covid times
+by @sdutBreen @sdut 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1421841172767465474?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="E7teo1NVcA413pv.jpg"  ><img src="E7teo1NVcA413pv.jpg" alt="Twitter image" ></img></a>
 
+---
 
+<a href="https://twitter.com/erictopol/status/1421841172767465474" target="_blank" rel="noreferer">14:32:06 UCT</a>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1421853582916132865?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+How to build a Delta immunity wall.
+The state with lowest rate of hospitalizations in the US Delta wave is the one with the highest vaccination (67% of 650,000 population).  
+3 covid patients in the whole state of Vermont, 1 in ICU, past 2 weeks here 
 
+<a href="E7tjNMnVgAEbC32.png"  ><img src="E7tjNMnVgAEbC32.png" alt="Twitter image" ></img></a>
 
+---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1421857292874440705?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/erictopol/status/1421872512393105411" target="_blank" rel="noreferer">16:36:38 UCT</a>
 
+On May 1 @CDCgov stopped tracking breakthrough infections unless hospitalized. That was a mistake then, but with the increased risk posed by Delta, it's more serious. Complete tracking needs to be reinstated, w/ demographics, PCR Ct results, samples for neutralizing antibodies...
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1421868708817903616?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+---
 
+<a href="https://twitter.com/erictopol/status/1421884941218947072" target="_blank" rel="noreferer">17:26:01 UCT</a>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1421872512393105411?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+RT @dwallacewells: “The most hopeful and encouraging facts about the Delta surge were even harder to find in the coverage of the CDC slides…
 
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1421874411083161606?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+---
 
+<a href="https://twitter.com/erictopol/status/1421903629447962626" target="_blank" rel="noreferer">18:40:17 UCT</a>
 
+August 1
+Florida is adding 400-600 new hospitalized patients per day, ~90 in ICU. If this continues, it's less than a week away from highest in its pandemic.
+In the post-vaccination era...... 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1421884941218947072?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="E7udbwVVIAAHs1i.jpg"  ><img src="E7udbwVVIAAHs1i.jpg" alt="Twitter image" ></img></a>
 
+---
 
+<a href="https://twitter.com/erictopol/status/1421906652601544708" target="_blank" rel="noreferer">18:52:18 UCT</a>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1421903629447962626?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Today, Canada surpassed Israel for fully vaccinated, a very high bar. Congratulations 🇨🇦 
 
+<a href="E7ugdu8VcAQqqSO.jpg"  ><img src="E7ugdu8VcAQqqSO.jpg" alt="Twitter image" ></img></a>
 
+---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1421909735947718657?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/erictopol/status/1421922969341759490" target="_blank" rel="noreferer">19:57:08 UCT</a>
 
+Delta is daunting: one of the highest % vaccinated in the US, San Francisco
+—Most breakthroughs mild/moderate Sx ; ~1% requiring hospitalizations is in keeping w/ other reports
+—All healthcare staff must be vaccinated
+—Our tracking for these is woeful
+https://www.nytimes.com/live/2021/08/01/world/covid-delta-variant-vaccine?type=styln-live-updates&label=coronavirus%20updates&index=0&action=click&module=Top%20Stories&pgtype=Homepage#covid-san-francisco-hospital-delta 
 
+<a href="E7uuGbEVkAEFwTd.jpg"  ><img src="E7uuGbEVkAEFwTd.jpg" alt="Twitter image" ></img></a>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1421909735947718657?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+---
 
+<a href="https://twitter.com/erictopol/status/1421927284374523904" target="_blank" rel="noreferer">20:14:17 UCT</a>
 
+RT @arimoin: Agree with @EricTopol 100%. We need to understand transmission real risk of infection, potential for transmission in household…
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1421909735947718657?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1421909735947718657?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/erictopol/status/1421931167855480835" target="_blank" rel="noreferer">20:29:43 UCT</a>
 
+If you thought the UK's Delta wave was bad, we've got a much worse situation brewing in multiple places, led by LA and FL http://outbreak.info 
 
+<a href="E7u2t1OVIAceGWH.jpg"  ><img src="E7u2t1OVIAceGWH.jpg" alt="Twitter image" ></img></a>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1421922969341759490?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+---
 
+<a href="https://twitter.com/erictopol/status/1421934766505398272" target="_blank" rel="noreferer">20:44:01 UCT</a>
 
+All Delta here in July.
+The 8:1 odds are pretty good. 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1421927284374523904?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="E7u6D2HVoAMno7I.jpg"  ><img src="E7u6D2HVoAMno7I.jpg" alt="Twitter image" ></img></a>
 
+---
 
+<a href="https://twitter.com/erictopol/status/1421958102568427521" target="_blank" rel="noreferer">22:16:45 UCT</a>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1421927602709618690?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+RT @DinaPomeranz: This is a nice way to display Covid infections by vaccination status. Hopefully other outlets will follow.
 
+The differenc…
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1421931167855480835?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+---
 
+<a href="https://twitter.com/erictopol/status/1422033221177413632" target="_blank" rel="noreferer">03:15:14 UCT</a>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1421934766505398272?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+US 4th, Delta wave
+Hospitalizations are now &gt;49,000, highest since February,  rising rapidly, and clearly will surpass waves 1 and 2.
+It's not too late to double down on all the things we know work💉,😷, distancing, rapid tests to limit the hit 
 
+<a href="E7wRFf2VkAg7gQy.jpg"  ><img src="E7wRFf2VkAg7gQy.jpg" alt="Twitter image" ></img></a>
 
+---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1421948565601980417?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/erictopol/status/1422041036432367621" target="_blank" rel="noreferer">03:46:17 UCT</a>
 
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1421958102568427521?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1421997774434828289?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1422000237921464322?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1422033221177413632?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/EricTopol/status/1422041036432367621?ref_src=twsrc%5Etfw"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+RT @BS_immunized: @EricTopol It's almost like Canadians are willing to do what's best for their society and are less influenced by superflu…
 
 
 
