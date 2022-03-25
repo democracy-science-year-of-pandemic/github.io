@@ -1,8 +1,6 @@
 
 {{ $section_content :=  where .Site.RegularPages "Section" "twitter"  }}
 {{ $section_content := ($section_content | last 50).Reverse }}
-
-
         <h2>Tweets</h2>
             <div class="tweet-row-example tweet-container">
             {{ range $section_content }}

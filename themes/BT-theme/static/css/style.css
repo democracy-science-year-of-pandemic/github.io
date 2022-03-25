@@ -357,3 +357,23 @@ hr {
 a.menu {
     color: black;
 }
+
+
+.thread {
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    padding: 1rem;
+    width: 515px;
+    margin-top: 1rem;
+}
+
+.thread hr {
+    border: none;
+    height: 1px;
+    background-color: lightgray;
+}
+
+.profile {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+}
