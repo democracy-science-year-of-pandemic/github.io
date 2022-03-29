@@ -12,6 +12,23 @@
        font-size: 0.8rem
       }
   
+    .title {
+      font-size: 2rem;
+    }
+    
+    .content {
+      font-size: 0.8rem;
+      line-height: 1.2rem;
+    }
+  
+    .thread-content {
+      font-weight: 300;
+      padding-left: 40px; 
+  } 
+  
+    .thread .tweet {
+      width: 96%;
+    } 
   }
   /* End of new PMR */
   
@@ -32,6 +49,10 @@
         text-align: center;
     }
   
+    .thread .tweet {
+      width: 515px;
+    } 
+    
     .w-md-25 {
       width: 25%;
     }
@@ -95,11 +116,22 @@
       line-height: 1.5rem;
     }
     
-     table th {
+    .title {
+      font-size: 3rem;
+    }
+    
+    .content {
+      font-size: 1rem;
+      line-height: 1.5rem;
+    }
+
+    table th {
        font-size: 1.0rem
       }
   /* End of new PMR */
       
+    
+    
      .margin-note {
        float: right;
        margin-right: -300px;
